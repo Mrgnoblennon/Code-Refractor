@@ -13,7 +13,7 @@ The assignment also encouraged a better use of CSS selector types in the stylesh
 * 0.2
     * Various bug fixes and optimizations
     * Fixed the link 'Search Engine Optimization'
-    * See [commit changes]()
+    * See [commit changes](https://github.com/Mrgnoblennon/Homework-1/graphs/commit-activity)
 * 0.1
     * Initial Release
 
@@ -23,4 +23,4 @@ The assignment also encouraged a better use of CSS selector types in the stylesh
 
 ## Website Deployment
 
-Link: [Horiseon]()
+Link: [Horiseon](https://mrgnoblennon.github.io/Homework-1/)
