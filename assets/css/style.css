@@ -212,9 +212,9 @@ p {
 
 */
 
-/* Added new class selector */
+/* Added new id selector */
 
-.main-section-img {
+#main-section-img {
     max-height: 200px;
 }
 
@@ -234,7 +234,7 @@ p {
 
 */
 
-/* Adding new selector */
+/* Added new selector */
 
 .main-section-content h2 {
     margin-bottom: 20px;
@@ -260,7 +260,7 @@ p {
 
 */
 
-/* Changed the div into its own element */
+/* Changed the div into the footer element */
 
 footer {
     padding: 30px;
