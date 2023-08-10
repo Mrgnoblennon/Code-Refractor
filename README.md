@@ -1,4 +1,4 @@
-# Assignment 1 - Horiseon
+# Code Refraction
 
 Applying semantic HTML.
 
